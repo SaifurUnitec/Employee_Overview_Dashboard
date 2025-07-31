@@ -1,5 +1,5 @@
 # Employee Overview Dashboard
-<img src="Dashboard.jpg" alt="Database Normalization" width="800"/>
+<img src="DESHBOARD.jpg" alt="Database Normalization" width="800"/>
 
 This interactive Excel dashboard provides a comprehensive overview of key HR metrics to support data-driven decision-making in human resources management. The dashboard is designed to offer insights into workforce demographics, compensation patterns, job satisfaction, and tenure-based performance.
 ### Key Features:
